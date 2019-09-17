@@ -12,4 +12,4 @@
 * 學號0624063 姓名:邱美萱
 * 學號0624073 姓名:楊凱勛
 
-my first ssignment
+my first Assignment
